@@ -1,2 +1,3 @@
 # SOUND-SOURCE-LOCALIZATION-DATASET
-The purpose of this paper is to provide a data set for sound source localization. 
+本文的目的是为声源定位提供数据集。 
+See database: SOUND-LOCATION-DATESET.
